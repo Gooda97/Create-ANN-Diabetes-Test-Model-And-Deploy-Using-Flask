@@ -12,6 +12,6 @@
 - The GUI of the output prediction page is as shown:
 [![](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/Docs/3.png)](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/Docs/3.png)
 ### Requirements
-- The requirements to run the server is listed in [This file](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/requirements.txt)).
+- The requirements to run the server is listed in [This file](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/requirements.txt).
 
 
