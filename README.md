@@ -1,7 +1,7 @@
 # Deploy-ANN-Diabetes-Test-Model-Using-Flask
 ### Training the model
 - In this repository I have trained an ANN model using a dataset from kaggle which can be downloaded from [Here](https://www.kaggle.com/datasets/mathchi/diabetes-data-set).
-- The training code can be found [Here](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/training)).
+- The training code can be found [Here](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/training).
 - The model training process output is as shown below:
 [![](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/Docs/1.png)](https://github.com/Gooda97/Create-ANN-Diabetes-Test-Model-And-Deploy-Using-Flask/blob/main/Docs/1.png)
 
